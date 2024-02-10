@@ -1,0 +1,19 @@
+GAME_NAME = 'GAME_NAME'
+AUTHORS   = 'AUTHORS'
+VERSION = '0.1.0'
+
+FULLSCREEN = False
+FONT_BOLD = 'assets/fonts/OpenSans-SemiBold.ttf'
+FONT_REG = 'assets/fonts/OpenSans-Regular.ttf'
+FONT_LIGHT = 'assets/fonts/OpenSans-Light.ttf'
+WHITE = 255, 255, 255
+BLACK = 0, 0, 0
+MATTE_BLACK = 20, 20, 20
+GREEN = 40, 175, 99
+RED = 255, 0, 0
+YELLOW = 250, 237, 39
+DARK_GREEN = 0, 128, 0
+LIGHT_BLUE = 0, 191, 255
+GREY = 204, 204, 204
+BLUE = 33, 150, 243
+BACKGROUND = 174, 222, 203
